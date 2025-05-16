@@ -1,0 +1,6 @@
+.env
+venv
+.venv
+__pycache__
+brave_search_mcp.egg-info
+.python-version
